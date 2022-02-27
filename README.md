@@ -28,6 +28,7 @@ cd ..
 Lastly, this code requires this repo to be cloned and requirements installed into your environment
 ```
 git clone https://github.com/charityking2358/multilingual-translation.git
+cd multilingual-translation
 pip install -r requirements.txt
 ```
 ### Data Download
